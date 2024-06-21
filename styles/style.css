@@ -74,7 +74,7 @@ a {
 /* Buttons */
 .btn {
   padding: 1rem 1.5rem;
-  background: #D1D8C5;
+  background: red;
   border: 1.5px solid var(--borderColor);
   cursor: pointer;
   transition: 0.2s ease-in-out;
